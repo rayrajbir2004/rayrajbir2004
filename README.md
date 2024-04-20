@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @rayrajbir2004
 - 👀 I’m interested in ... Machine Learning, Data Analytics and App Development
 - 🌱 I’m currently learning ...Machine Learning & App Development
-- 💞️ I’m looking to collaborate on ... App Development
+- 💞️ I’m looking to collaborate on ... App Development and ML
 - 📫 How to reach me ... email : rayrajbir@gmail.com
 - 😄 Pronouns: ...He/Him
 - ⚡ Fun fact: ...
